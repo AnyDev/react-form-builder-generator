@@ -1,3 +1,5 @@
+import React from 'react';
+
 const FormGenerator = (props) => {
     return (
         <div className="flex w-full h-screen red items-center justify-center text-white">
